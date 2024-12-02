@@ -9,7 +9,7 @@ This software recognizes person's faces and their corresponding emotions from a 
 - Opencv
 - Cmake
 - Dlib
-- [face_recognition](https://github.com/ageitgey/face_recognition)
+- Face_recognition
 - Keras
 
 Note : If you are facing issues installing dlib in your system then use google collab its comes as pre-installed.
@@ -43,11 +43,3 @@ Note : If you are facing issues installing dlib in your system then use google c
 The model used is from this [research paper](https://github.com/oarriaga/face_classification/blob/master/report.pdf) written by Octavio Arriaga, Paul G. Plöger, and Matias Valdenegro.
 
 ![Model](https://i.imgur.com/vr9yDaF.png?1)
-
-## Credit
-
-* Computer vision powered by OpenCV.
-* Neural network scaffolding powered by Keras with Tensorflow.
-* FaceNet [Research Paper](https://arxiv.org/pdf/1503.03832.pdf)
-* Convolutional Neural Network (CNN) deep learning architecture is from this [research paper](https://github.com/oarriaga/face_classification/blob/master/report.pdf).
-* Pretrained Keras model and much of the OpenCV code provided by GitHub user [oarriaga](https://github.com/oarriaga).
